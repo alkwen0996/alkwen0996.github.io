@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "처음 만들어본 내 블로그"
+title                    : "메모장"
 title_separator          : "-" # 게시글제목 - 블로그명 형식을 "-"로 구분
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "알고리즘, 웹 개발"
+name                     : ""
+description              : "뭐라도 남겨보자"
 url                      : "https://alkwen0996.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "alkwen0996/alkwen0996.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "MinSoo Lee"
+  name             : "Jerome"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Seoul,Korea"
+  bio              : "뭐라도 남겨보자"
+  location         : "Hanam,Korea"
   email            : ""
   links:
     - label: "Email"
